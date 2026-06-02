@@ -1,0 +1,9 @@
+ls=[1,2,3,4]
+print(ls)
+ls.insert(2,6)
+print(ls)
+ls.pop()
+print(ls)
+print(len(ls))
+ls.append(7)
+print(ls)
